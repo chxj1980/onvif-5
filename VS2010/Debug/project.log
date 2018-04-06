@@ -1,0 +1,19 @@
+﻿  wsseapi.c
+  wsaapi.c
+  threads.c
+  stdsoap2.c
+  soapClient.c
+  soapC.c
+  smdevp.c
+  mecevp.c
+e:\work\onvif\onvif\mecevp.c(1074): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+e:\work\onvif\onvif\mecevp.c(1129): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  duration.c
+  dom.c
+  onvif_dump.c
+  onvif_comm.c
+  main.c
+e:\work\onvif\ffmpeg-win32\include\libavutil\rational.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  project.vcxproj -> E:\work\onvif\VS2010\Debug\project.exe
+  project.vcxproj -> E:\work\onvif\VS2010\Debug\project.pdb (Full PDB)
